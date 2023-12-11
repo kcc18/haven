@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984904425368",
+    "project_id": "dmit2504-haven",
+    "storage_bucket": "dmit2504-haven.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984904425368:android:b9fcb6c292b535b15715ed",
+        "android_client_info": {
+          "package_name": "com.example.haven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf1oZzHbwXWymOA49j4VBaG2GKX86ttmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
