@@ -40,8 +40,8 @@ class Song {
       coverUrl: 'assets/images/elvis.jpg',
     ),
     Song(
-      title: 'Illusions',
-      artist: 'Illusions',
+      title: 'Tell me now',
+      artist: 'RR 1',
       url: 'assets/music/illusions.mp3',
       coverUrl: 'assets/images/illusions.jpg',
     ),
